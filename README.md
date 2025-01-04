@@ -60,21 +60,6 @@ CREATE TABLE students (
 
 - Use XAMPP or WAMP for MySQL database management.
 
-### 3. **Folder Structure**
-Ensure the following folder structure:
-```
-project/
-├── images/                  # Stores student images for encoding
-├── res/                     # Stores background and mode images
-├── EncodeFile.p             # Encoded face data
-├── addDataToMySQL.py        # Script to insert/update student data
-├── encodeGen.py             # Script to encode face data
-├── main.py                  # Main program for real-time attendance
-├── uploadImagesToDB.py      # Script to upload images to the database
-```
-
----
-
 ## How It Works
 
 ### 1. **Student Data and Image Management**
@@ -114,6 +99,9 @@ Run `main.py` to start the real-time face detection and attendance system:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-orange.svg?style=for-the-badge&logo=xampp&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![cvzone](https://img.shields.io/badge/cvzone-%23E4405F.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
 
