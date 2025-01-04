@@ -3,6 +3,11 @@
 This project is a real-time attendance management system using face recognition. The system identifies students based on their faces, updates their attendance in a MySQL database, and displays relevant information dynamically. The project is inspired by [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/watch?v=iBomaK2ARyI&t=7493s&ab_channel=Murtaza%27sWorkshop-RoboticsandAI) but replaces Firebase with MySQL for database management.
 
 ---
+## Overview of Some Features
+![Recognition Screenshot](READMEImages/image1.png)
+![Confirmation Screenshot](READMEImages/image2.png)
+![Already in System Screenshot](READMEImages/image3.png)
+![Already in System Even With Different Photo Screenshot](READMEImages/image4.png)
 
 ## Features
 
